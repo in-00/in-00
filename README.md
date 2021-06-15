@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **in-00/in-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,18 +25,18 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Flutter ,C++ ,Firebase**
 
-- 📫 How to reach me **singhvinayakurs@gmail.com**
+- 📫 How to reach me [Gmail](singhvinayakurs@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14R4Yao6EevCTEdED0A-2nFQ6war30UIG/view?usp=sharing](https://drive.google.com/file/d/14R4Yao6EevCTEdED0A-2nFQ6war30UIG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14R4Yao6EevCTEdED0A-2nFQ6war30UIG/view?usp=sharing)
 
 - ⚡ Fun fact **Life would be much easier if I had the source code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/singhvinayak_urs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singhvinayak_urs" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vin_007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vin_007" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/in00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="in00" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shinchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shinchan" height="30" width="40" /></a>
+
+<a href="https://www.codechef.com/users/vin_007" target="blank"><img align="center" src="https://miro.medium.com/max/666/1*1W0-bbmt4iiEpp_pPrS0VQ.png" alt="vin_007" height="30" width="40" /><tab></a>
+<a href="https://codeforces.com/profile/in00" target="blank"><img align="center" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" alt="in00" height="30" width="40" /><tab></a>
+  <a href="https://auth.geeksforgeeks.org/user/shinchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shinchan" height="30" width="40" /></a><a href="https://instagram.com/singhvinayak_urs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singhvinayak_urs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
